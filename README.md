@@ -1,4 +1,3 @@
-========================================
 
 ....Task 2: Comparative Analysis on Unsupervised Machine Learning on Clustering Algorithms....
 ========================================
@@ -28,13 +27,12 @@ Objective-E: DBSCAN Clustering applied between 3 Variables
 Objective-F: DBSACAN Clustering applied between 2 Variables  
 
 
-============================
+
 PYTHON CODE FILES FOR TASK2:
 ============================
 One Jupyter notebook file: komala_2clusters_nursery.ipynb
 
 
-=======================
 DATASET FILE FOR TASK2:
 =======================
 Nursery.csv
